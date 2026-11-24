@@ -3,6 +3,4 @@ torchvision
 pandas
 tqdm
 matplotlib
-gdal
-conda-forge
-taco-eo
+datasets
